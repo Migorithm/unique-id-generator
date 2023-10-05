@@ -5,5 +5,5 @@ not appropriate choice for various reasons such as<br>
 - when using distributed system where you cannot access directly the id generating backend
 - when mononotically increasing yet numerical values are required for ID
 
-To solve the problems, Twitter took simple yet amazing approach using 64 bits data - `snowflake``.<br>
+To solve the problems, Twitter took simple yet amazing approach using 64 bits data - `snowflake`. <br>
 This project is Rust implementation of snowflake.
